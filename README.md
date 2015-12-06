@@ -1,9 +1,10 @@
 ALGORITHMIC TRADING
 ====================================
-AREAS: EQUITY, FIXED INCOME, FX
+FOCUS: EQUITY; FX (DIGITAL CCY)
 ------------------------------------
+**Authors:** Just a few disruptive PhD students
 
-**Key Words:** PSO, Genetic Algorithms, Machine Learning, Alpha
+**Key Words:** Alpha Generation, Anomaly Detection, High Frequency Trading, Genetic Algorithms, Machine Learning, Alpha Generation
 
 This project will see major development in the trading and deployment of algorithmic strategies with the ability to trade any product. Systematic risk management together with cutting edge trading strategies will be developed where we hope to see this as one of the most advanced platforms available.
 
